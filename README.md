@@ -1,6 +1,7 @@
-                                                        💭 EXERCÍCIOS ARRAYS         
+💭 EXERCÍCIOS ARRAYS         
 
-                                                      📝 ARRAYS UNIDIMENSIONAIS
+
+📝 ARRAYS UNIDIMENSIONAIS
 
 🔹Ordem Inversa: Faça um Programa que leia um vetor de 5 números inteiros e mostre-os na ordem inversa.
 
@@ -10,7 +11,7 @@
 
 🔗 Lista de Exercícios Arrays Unidimensionais - Possíveis soluções
 
-                                                      📝 ARRAYS MULTIDIMENSIONAIS
+📝 ARRAYS MULTIDIMENSIONAIS
                                                          
 🔹Array Multidimensional: Gere e imprima uma matriz M 4x4 com valores aleatórios entre 0-9. Após isso determine o menor número da matriz e a sua posição(linha, coluna).
 
